@@ -112,14 +112,14 @@ p {
 .image1 {
     padding: 50px 50px 0 0;
     border-radius: 170px 170px 0 0;
-    background: rgb(229 84 115 / 19%);
+    background: rgba(5, 151, 160, 0.15);
     height: 500px;
 }
 
 .image2 {
     padding: 50px 50px 0 0;
     border-radius: 170px 170px 0 0;
-    background: rgb(229 84 115 / 19%);
+    background: rgba(71, 125, 17, 0.15);
     height: 500px;
 }
 
