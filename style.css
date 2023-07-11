@@ -76,3 +76,60 @@ p {
 .banner-img img {
     width: 450px;
 }
+
+
+.feature-part {
+    text-align: center;
+    margin: 100px 0;
+}
+
+.image-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+
+.image {
+    padding: 50px 50px 0 0;
+    border-radius: 170px 170px 0 0;
+    background: rgb(229 84 115 / 19%);
+    height: 500px;
+}
+
+.image1 {
+    padding: 50px 50px 0 0;
+    border-radius: 170px 170px 0 0;
+    background: rgb(229 84 115 / 19%);
+    height: 500px;
+}
+
+.image2 {
+    padding: 50px 50px 0 0;
+    border-radius: 170px 170px 0 0;
+    background: rgb(229 84 115 / 19%);
+    height: 500px;
+}
+
+.image1 {
+    padding: 92px 0px 0 0;
+}
+
+.image1>img {
+    width: 370px !important;
+}
+
+.image img {
+    margin-bottom: 0;
+}
+
+
+.image-item1 img {
+    width: 300px;
+}
+
+.image-item1 p {
+    font-size: 20px;
+    text-decoration: underline;
+}
